@@ -29,3 +29,6 @@ This will output to the `coverage` folder where you can few test coverage by ope
 # Other QuadTree libraries in JS
 * [quadtree-js](https://github.com/timohausmann/quadtree-js)
 * [d3-quadtree](https://github.com/d3/d3-quadtree)
+
+# Add fun_quadtree Carlsen66
+* [QuadTree Repo](https://github.com/Carlsen66/QuadTree/tree/master/examples/fun_qtree)
